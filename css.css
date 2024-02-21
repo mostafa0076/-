@@ -1,0 +1,66 @@
+h1{
+    background-color: brown;
+    padding: 50px;
+    margin: 10px;
+    border-width: 3px;
+    border-color: blue;
+    border-style: solid;
+    text-align: center;
+    font-size: 500%;
+}
+h2{
+    background-color: rgb(42, 165, 124);
+    padding: 5px;
+    margin: 10px;
+    border-width: 3px;
+    border-color: blueviolet;
+    border-style: solid;
+    text-align: center;
+}
+h3{
+    background-color: rgb(42, 165, 124);
+    padding: 5px;
+    margin: 10px;
+    border-width: 3px;
+    border-color: blueviolet;
+    border-style: solid;
+    text-align: center;
+}  
+.what{
+    background-color: rgb(42, 140, 165);
+    padding: 5px;
+    margin: 10px;
+    border-width: 3px;
+    border-color: rgb(26, 183, 43);
+    border-style: solid;
+    text-align: left; 
+    font-size: 250%;
+
+}
+img{
+    border-image-outset: 4px;
+    border-color: blueviolet;
+    border-style: solid;
+}
+button , .desha{
+    background-color: aquamarine;
+    border-width: 3px;
+    border-color: blue;
+    border-style: solid;
+    text-align: center;
+}
+ul{
+    background-color: rgba(29, 23, 34, 0.479);
+    width: 100px;
+}
+ol{
+    background-color: rgba(81, 15, 134, 0.479);
+    width: 100px;
+}
+dl{
+    background-color: rgba(299, 23, 34, 0.479);
+    width: 100px;
+}
+body{
+background-color: rgb(133, 133, 139);
+}
